@@ -1,0 +1,11 @@
+{
+  "name": "maglevcms-client",
+  "version": "1.0.0",
+  "description": "NPM package including the API client, types and some other stuff required by the other MaglevCMS packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Didier Lafforgue",
+  "license": "MIT"
+}
